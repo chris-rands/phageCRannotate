@@ -1,0 +1,7 @@
+['primase', 'helicase', 'holin', 'toxin', 'virulence', 'beta-lactamase', 'beta lactamase', 'aminoglycoside', 'chloramphenicol', 'glycopeptide', 'quinolone', 'tetracycline', 'macrolide', 'ansamycin', 'streptogramin', 'lipopeptide', 'vanomycinefflux-pump', 'efflux pump', '16S', '30S', '23S', '50S', 'head ', 'clp protease', 'prohead protease', 'capsid', 'head tail', 'head-tail', 'head/tail', 'portal', 'tail fibre', 'base-plate', 'baseplate', 'base plate', 'tail sheath', 'tail tape measure', 'tail tube', 'terminase', 'lysis', 'lysin', 'anti-repressor', 'repressor', 'integrase', 'antirepressor', 'trna', 'recombinase', 'transposase', ' tail', '\ttail']
+starting...
+write out_files
+Making: col_files_nonfiltered
+{'portal', 'head ', 'prohead protease', 'terminase', ' tail', 'holin', 'head-tail', 'repressor', 'lysin', 'integrase', '\ttail', 'tail tape measure', 'capsid'}
+Ouputing all phages, id: id_#0N
+done!
